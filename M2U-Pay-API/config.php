@@ -13,7 +13,7 @@ define('DB_PASSWORD', 'change_here');
  * System Information
  */
 define('SYSTEM_URL', 'https://yourdomain.com/'); // MUST end WITH thrailing slash
-define('DEVELOPMENT_MODE', true); // Unset this if not in development mode
+define('DEVELOPMENT_MODE', false); // Unset this if not in development mode
 
 /*
  * Signature for Validation Purpose
