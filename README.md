@@ -75,7 +75,8 @@ Below is recommended value:
 1. Make sure you provide **VALID SSL/TLS Certificate**
 2. Callback URL: **SYSTEM URL + callback/ + Callback ID**
 
-3. Example: ```
+3. Example: 
+```
 https://yourdomain.com/callback/eeffgghhhii
 ```
 4. You may have 2 Installation for both UAT and Production
